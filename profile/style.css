@@ -1,0 +1,36 @@
+body {
+  background-color: #685ae5;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  font: size 1px;
+}
+
+#header {
+  color: #cff6fb;
+  text-decoration: solid;
+}
+
+.container {
+  margin: 16px;
+  padding: 17px 16px;
+  text-align: center;
+}
+
+.background-grey {
+  background-color: grey
+}
+
+.background-green {
+  background-color: grey;
+}
+
+.border-radius{
+  border-radius: 16px;
+}
+.background-white{
+  background-color: rgb(40, 89, 119);
+}
+
+.rounded {
+  border-radius: 50%;
+}
